@@ -1,4 +1,4 @@
-## SubEnum
+## Sub Domain Scanner 
 
 ## Author
 G4UR4V007
