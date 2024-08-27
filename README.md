@@ -1,4 +1,4 @@
-## Sub Domain Scanner 
+## A Simple and Easy to use Subdomain Scanner
 
 ## Author
 G4UR4V007
@@ -13,6 +13,7 @@ A simple and easy-to-use subdomain scanner written in Python. This tool allows u
 - Scans for subdomains of a given domain.
 - Checks the availability of each subdomain.
 - Outputs the active subdomains found during the scan.
+- No Wordlist Needed
 
 ## Requirements
 To run this project, you need to have Python 3 installed. You can install the required packages using pip
