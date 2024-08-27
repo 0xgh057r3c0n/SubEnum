@@ -1,4 +1,4 @@
-# Sub-Domain Finder
+## SubEnum
 
 ## Author
 G4UR4V007
