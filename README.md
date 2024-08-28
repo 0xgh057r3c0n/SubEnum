@@ -1,4 +1,4 @@
-## A Simple and Easy to use Subdomain Scanner
+## SUBENUM: A Simple and Easy to use Subdomain Scanner
 
 ## Author
 G4UR4V007
